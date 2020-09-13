@@ -2,6 +2,7 @@
 In this kernal I tired to explain the Credit card fraud with help of Anomaly Detection using Gaussian Distribution.
 
 **Preprocessing steps we are going to explain**
+
 1)Import libraries
 
 2)checked the data types
@@ -19,6 +20,7 @@ In this kernal I tired to explain the Credit card fraud with help of Anomaly Det
 8)created thresholds [3,3.5,4] to find out anomalies and computed confusion matrix,classification report
 
    **0 means Non_fraud , 1 means fraud**
+   
 9)But in confusion matrix True Negative count is 0 on [3,3.5,4] due to 1's lies between -0.5 to 1.35 . So in Normal distributionwe cannot find anomalies.
 
 
