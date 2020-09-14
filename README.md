@@ -23,7 +23,9 @@ In this kernal I tired to explain the Credit card fraud with help of Anomaly Det
 
 Kaggle Notebook Link :https://www.kaggle.com/saiharsha1234/creditcard-fraud-detection .
 
-Programing Language used  : Python Libraries used : pandas, numpy, matplot, sklearn
+Programing Language used  : Python 
+
+Libraries used : pandas, numpy, matplot, sklearn
 
 Concepts : PCA,Standardisation,multivariate gaussian,confusion matrix,classification report
 
